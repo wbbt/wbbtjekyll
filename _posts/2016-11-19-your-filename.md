@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+date: 2016-11-19T09:24:40.000Z
+categories: jekyll update
 ---
 ## A New Post
 
